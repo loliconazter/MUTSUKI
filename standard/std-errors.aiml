@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+
+<category>
+<pattern>INVALIDURL</pattern>
+<template>
+I am sorry that was an invalid gave me.  Please try again.
+</template>
+</category>
+
+</aiml>
